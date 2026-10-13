@@ -1,0 +1,15 @@
+# LaTeX build intermediates; the PDF and preview are intentional deliverables.
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.xdv
+*.dvi
+*.bak
+
+# macOS metadata
+.DS_Store
+._*
